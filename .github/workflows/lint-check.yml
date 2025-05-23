@@ -1,0 +1,20 @@
+name: lint-check.yml
+on:
+  pull_request:
+    branches:
+      - develop
+      - staging/*
+
+jobs:
+    lint:
+      name: Lint Check
+      runs-on: ubuntu-latest
+      permissions: write-all
+      steps:
+          - name: Check out the repo
+            uses: actions/checkout@v4
+          - uses: oven-sh/setup-bun@v2
+          - name: Install dependencies
+            run: bun install
+          - name: Lint
+            run: bun run lint:check

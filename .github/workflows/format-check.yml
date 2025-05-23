@@ -1,0 +1,20 @@
+name: format-check.yml
+on:
+  pull_request:
+    branches:
+      - develop
+      - staging/*
+
+jobs:
+    format:
+      name: Format Check
+      runs-on: ubuntu-latest
+      permissions: write-all
+      steps:
+        - name: Check out the repo
+          uses: actions/checkout@v4
+        - uses: oven-sh/setup-bun@v2
+        - name: Install dependencies
+          run: bun install
+        - name: Format
+          run: bun run format:check

@@ -1,0 +1,3 @@
+const POWER_PLUG_TYPE = "POWER_PLUG_TYPE";
+
+export { POWER_PLUG_TYPE };

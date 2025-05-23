@@ -1,0 +1,3 @@
+const POWER_OUTPUT = "POWER_OUTPUT";
+
+export { POWER_OUTPUT };

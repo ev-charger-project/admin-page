@@ -1,0 +1,13 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="eye" clip-path="url(#clip0_3332_36841)">
+<g id="Icon">
+<path d="M0.666016 8.00033C0.666016 8.00033 3.33268 2.66699 7.99935 2.66699C12.666 2.66699 15.3327 8.00033 15.3327 8.00033C15.3327 8.00033 12.666 13.3337 7.99935 13.3337C3.33268 13.3337 0.666016 8.00033 0.666016 8.00033Z" stroke="#A7B2BC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.99935 10.0003C9.10392 10.0003 9.99935 9.10489 9.99935 8.00033C9.99935 6.89576 9.10392 6.00033 7.99935 6.00033C6.89478 6.00033 5.99935 6.89576 5.99935 8.00033C5.99935 9.10489 6.89478 10.0003 7.99935 10.0003Z" stroke="#A7B2BC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3332_36841">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>

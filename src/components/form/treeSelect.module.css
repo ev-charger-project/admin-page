@@ -1,0 +1,18 @@
+.tree-select-dropdown :global(.ant-select-tree-treenode-disabled .ant-select-tree-node-content-wrapper) {
+    color: #263e56 !important;
+    cursor: pointer !important;
+}
+
+.tree-select-dropdown :global .ant-select-tree-switcher {
+    display: none !important;
+}
+
+.tree-select-dropdown :global .icon {
+    display: inline-flex;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+.tree-select-dropdown :global .icon.expanded {
+    transform: rotate(-90deg);
+}
