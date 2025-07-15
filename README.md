@@ -22,6 +22,60 @@
 - 📱 **Responsive Design** - Mobile-friendly interface
 - 🎨 **Modern UI** - Built with Ant Design components
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🚗 EV Charger Management
+*Monitor and manage all EV charging stations in one place*
+
+<img src="images/ev_list.png" alt="EV Charger List Management" width="700"/>
+
+---
+
+### 👥 User Management
+*Create and manage user accounts with comprehensive forms*
+
+<img src="images/user-create.png" alt="User Creation Form" width="700"/>
+
+---
+
+### 📍 Location Management
+*Organize charging stations by location with detailed information*
+
+<table>
+<tr>
+<td width="50%">
+<img src="images/location-edit-1.png" alt="Location Edit Form - Part 1" width="100%"/>
+<p align="center"><em>Location Details Form</em></p>
+</td>
+<td width="50%">
+<img src="images/location-edit-2.png" alt="Location Edit Form - Part 2" width="100%"/>
+<p align="center"><em>Location Configuration</em></p>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Power Configuration
+*Configure power outputs and plug types for optimal charging*
+
+<table>
+<tr>
+<td width="50%">
+<img src="images/power_output.png" alt="Power Output Configuration" width="100%"/>
+<p align="center"><em>Power Output Settings</em></p>
+</td>
+<td width="50%">
+<img src="images/power_plug_type.png" alt="Power Plug Type Configuration" width="100%"/>
+<p align="center"><em>Plug Type Management</em></p>
+</td>
+</tr>
+</table>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/) with App Router
