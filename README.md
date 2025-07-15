@@ -202,7 +202,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Support
 
 For support and questions:
-- 📧 Email: support@ev-charger-project.com
+- 📧 Email: khoatrandang.work@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/ev-charger-project/admin-page/issues)
 
 ---
