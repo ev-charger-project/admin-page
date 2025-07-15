@@ -256,11 +256,10 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Support
 
 For support and questions:
-- 📧 Email: support@ev-charger-project.com
 - 🐛 Issues: [GitHub Issues](https://github.com/ev-charger-project/admin-page/issues)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the EV Charger Team</p>
+  <p>Made with ❤️ by @denda0duong</p>
 </div>
